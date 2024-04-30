@@ -7,7 +7,7 @@ Ref: [Most Commonly Asked Apache Spark-Based Conceptual Questions in Data Engine
 ### Components
 SparkのComponentは以下のように構成される。<br>
 
-![Spark Components](<./img/spark_component.png>)
+![Spark Components](<../img/spark_component.png>)
 
 SparkのMain Componentは何かと問われたら、その問いは主に以下に分類できる。
 1. Driver Program <br>
